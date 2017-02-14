@@ -14,7 +14,7 @@
     <meta property="og:description"        content="Find out about the big day, things todo in Hawaii and how to make the most out of Oahu!" />
     <meta property="og:image"              content="http://tygelica.com/public/img/pic-tygelica-1.jpg" />
 
-
+    <link rel="icon" type="image/x-icon" href="public/img/favicon-anchor.ico">
 
     <!-- Styles -->
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/css/bootstrap.min.css">
