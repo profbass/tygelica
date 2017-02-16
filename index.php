@@ -3,6 +3,7 @@
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tygelica - Oahu Hawaii 2017</title>
     <meta name="keywords" content="tygelica wedding, hawaiian wedding">
     <meta name="description" content="Tygelica's Hawaiian Wedding 2017">
     <meta name="robots" content="index,follow">
@@ -177,17 +178,17 @@
                     </div>
                     <div class="row margin-top-100 text-center">
                         <div class="col-sm-4 mobile-margin-bottom-50">
-                            <a href="http://www.turtlebayresort.com/" target="_blank"><img src="public/img/logo-turtlebay.png" class="img-responsive margin-top-10" /></a>
+                            <a href="http://www.turtlebayresort.com/" target="_blank"><img src="public/img/logo-turtlebay.png"  style="max-width: 100%; margin:0 auto;" /></a>
                             <p class="margin-top-55">This hotel is located about 10 miles from the estate, it’s about a 20 minute drive from the hotel to the wedding. This is your best upscale beach resort.</p>
                            
                         </div>
                         <div class="col-sm-4 mobile-margin-bottom-50">
-                            <p class="text-center bg-dark"><a href="http://www.marriott.com/hotels/travel/hnloa-courtyard-oahu-north-shore" target="_blank"><img src="public/img/logo-marriot.png" class="img-responsive" /></a></p>
+                            <p class="text-center bg-dark"><a href="http://www.marriott.com/hotels/travel/hnloa-courtyard-oahu-north-shore" target="_blank"><img src="public/img/logo-marriot.png"  style="max-width: 100%; margin:0 auto;" /></a></p>
                             <p class="margin-top-30">This hotel is about 3 miles from the estate, about a 5-10 minute drive depending on traffic.  It’s a newly renovated Marriott Hotel.</p>
                             
                         </div>
                         <div class="col-sm-4 mobile-margin-bottom-50">
-                            <p class="text-center bg-salmon"><a href="https://www.airbnb.com/s/O%E2%80%98ahu--North-Shore--Waialua--HI--United-States?checkin=04%2F21%2F2017&checkout=04%2F24%2F2017&guests=4&room_types%5B%5D=Entire+home%2Fapt&ss_id=lo2l9y74&page=1&source=filters&airbnb_plus_only=false&allow_override%5B%5D=&s_tag=W8Asvi4z" target="_blank"><img src="public/img/logo-airbb.png" class="img-responsive" /></a></p>
+                            <p class="text-center bg-salmon"><a href="https://www.airbnb.com/s/O%E2%80%98ahu--North-Shore--Waialua--HI--United-States?checkin=04%2F21%2F2017&checkout=04%2F24%2F2017&guests=4&room_types%5B%5D=Entire+home%2Fapt&ss_id=lo2l9y74&page=1&source=filters&airbnb_plus_only=false&allow_override%5B%5D=&s_tag=W8Asvi4z" target="_blank"><img src="public/img/logo-airbb.png"  style="max-width: 100%; margin:0 auto;" /></a></p>
                             <p class="margin-top-30">Air B&amp;B is also a great option. The North Shore is full of vacation rentals so there are a lot of options in the area.</p>
                     </div>
                 </div>
