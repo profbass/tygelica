@@ -9,7 +9,7 @@
     <meta name="robots" content="index,follow">
     <meta name="viewport" content="width=device-width, maximum-scale=1 user-scalable=no">
     <!-- Facebook meta -->
-    <meta property="og:url"                content="http://www.nytimes.com/2015/02/19/arts/international/when-great-minds-dont-think-alike.html" />
+    <meta property="og:url"                content="http://www.tygelica.com/" />
     <meta property="og:type"               content="article" />
     <meta property="og:title"              content="Tygelica's Hawaiian Wedding 2017" />
     <meta property="og:description"        content="Find out about the big day, things todo in Hawaii and how to make the most out of Oahu!" />
