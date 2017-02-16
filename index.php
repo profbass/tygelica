@@ -10,7 +10,7 @@
     <meta name="viewport" content="width=device-width, maximum-scale=1 user-scalable=no">
     <!-- Facebook meta -->
     <meta property="og:url"                content="http://www.tygelica.com/" />
-    <meta property="og:type"               content="article" />
+    <meta property="og:type"               content="website" />
     <meta property="og:title"              content="Tygelica's Hawaiian Wedding 2017" />
     <meta property="og:description"        content="Find out about the big day, things todo in Hawaii and how to make the most out of Oahu!" />
     <meta property="og:image"              content="http://tygelica.com/public/img/pic-tygelica-1.jpg" />
