@@ -28,7 +28,9 @@
 
 </head>
 <body class="loading-hide<?php if(strstr($_SERVER['HTTP_USER_AGENT'],'iPhone') || strstr($_SERVER['HTTP_USER_AGENT'],'iPod') || strstr($_SERVER['HTTP_USER_AGENT'],'iPad') || strstr($_SERVER['HTTP_USER_AGENT'],'Android')){ ?> mobile<?php } ?>">
+<img src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" id="homepageImage" hidden alt=""/>
 
+<!-- Hidden Loading Image -->
 <section id="home" class="parallax-wrap">
     <div class="nonparallax full-height">
         <div class="">
@@ -49,7 +51,7 @@
             <div style="clear:all"></div>
         </div>
     </div>
-    <div id="paralax-1" class="parallax-layer full-height fixed" data-speed="12">&nbsp;</div>
+    <div id="paralax-1" class="parallax-layer full-height fixed featured-image" data-speed="12">&nbsp;</div>
     <div id="paralax-2" class="parallax-layer full-height fixed" data-speed="3">
         <div class="section-content">
             <div class="row ">
@@ -436,6 +438,28 @@
                 $form.append('<div class="alert alert-danger">Oops! It broke!</div>');
             });
         });
+
+        // vars for loading images
+        var 
+            loadingImage = $('#homepageImage'),
+            featuredImage = $('.featured-image')
+        ;
+        // Obj of images to load. Key is the CSS class with low rez version, value is the cinemagraph to be laoded
+        var imageObj = {
+            "ocean" : "http://www.tygelica.com/public/img/pic-ocean.jpg",
+        };
+        // grabbing random key and value from Obj and creating vars
+        var imageArray  = Object.keys(imageObj);
+        var imageClass = imageArray[Math.floor(Math.random() * imageArray.length)];
+        var imageGif  = imageObj[imageClass]; 
+        //load class with low rez image
+        featuredImage.addClass(imageClass);
+        // loading the animated gif in the dom, and populating the CSS background property once the image is loaded
+        loadingImage.on('load', function() {
+            console.log('Loaded');
+            featuredImage.css('background-image', 'url(' + imageGif + ')');
+        }).attr('src', imageGif);
+
 
 
     });
