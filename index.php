@@ -453,10 +453,9 @@
         var imageClass = imageArray[Math.floor(Math.random() * imageArray.length)];
         var imageGif  = imageObj[imageClass]; 
         //load class with low rez image
-        featuredImage.addClass(imageClass);
         // loading the animated gif in the dom, and populating the CSS background property once the image is loaded
         loadingImage.on('load', function() {
-            console.log('Loaded');
+            featuredImage.addClass(imageClass);
             featuredImage.css('background-image', 'url(' + imageGif + ')');
         }).attr('src', imageGif);
 
