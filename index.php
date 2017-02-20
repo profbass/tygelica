@@ -376,37 +376,6 @@
         // Parallax Plugin
         var Parallax = new Parallaxy();
 
-        // sticky header nav detection
-        if (!isMobile){
-            // $(window).scroll(function(el) {
-            //     tygelica.stickyNav();
-            // });
-        }
-
-        // Mobile Nav toggle
-        // $('.nav-icon, #nav-mobile a').on('click', function(e){
-        //     var mobileNav = $('#nav-mobile');
-        //     // toggle class for menu button
-        //     $('.nav-icon').toggleClass('active');
-        //     //open and close mobile nav
-        //     if ( mobileNav.hasClass('open')){
-        //         //menu toggle animation
-        //         mobileNav.removeClass('open');
-        //     } else {
-        //         //menu toggle animation
-        //         mobileNav.addClass('open');
-        //     }
-        // });//end menu toggle
-
-
-        // $('input#guest').on('change', function(event) {
-        //     if( $(this).is(':checked') ){
-        //         $('.guest-row').removeClass('hidden');
-        //     } else {
-        //         $('.guest-row').addClass('hidden');
-        //     }
-        // });
-
         function popupContent(){
             var $yes = $('#yes');
             var $body = $('.modal-body');
@@ -417,7 +386,6 @@
                 $body.html("<h2>That's a Bummer!</h2><p> Sorry you can't make it!</p>");
             }
         }
-
 
         // form submission 
         $('#weddingForm').on('submit', function(e) {
@@ -462,7 +430,7 @@
 
     });
 </script>
-
+<!-- GA Data -->
 <script>
   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
   (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),

@@ -1,6 +1,6 @@
 <?php
     $to = "tyler@booj.com"; 
-    $from = $_REQUEST['emailInput']; 
+    //$from = $_REQUEST['emailInput']; 
     $name = $_REQUEST['nameInput']; 
     $headers = "From: $from"; 
     $subject = "Tygelica Wedding Guest"; 
