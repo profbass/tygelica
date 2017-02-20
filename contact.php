@@ -1,5 +1,5 @@
 <?php
-    $to = "tyler@booj.com"; 
+    $to = "thepolens@booj.com"; 
     //$from = $_REQUEST['emailInput']; 
     $from = 'tygelica';
     $name = $_REQUEST['nameInput']; 
