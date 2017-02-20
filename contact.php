@@ -1,7 +1,7 @@
 <?php
     $to = "tyler@booj.com"; 
     //$from = $_REQUEST['emailInput']; 
-    $from = 'oliver-wolcott.dreamhost.com';
+    $from = 'tygelica';
     $name = $_REQUEST['nameInput']; 
     $headers = "From: $from"; 
     $subject = "Tygelica Wedding Guest"; 
