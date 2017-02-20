@@ -15,9 +15,8 @@
     <meta property="og:title"              content="Tygelica's Hawaiian Wedding 2017" />
     <meta property="og:description"        content="Find out about the big day, things todo in Hawaii and how to make the most out of Oahu!" />
     <meta property="og:image"              content="http://tygelica.com/public/img/pic-tygelica-1.jpg" />
-
+    <!-- Favicon -->
     <link rel="icon" type="image/x-icon" href="public/img/favicon-anchor.ico">
-
     <!-- Styles -->
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/css/bootstrap.min.css">
     <link href='http://fonts.googleapis.com/css?family=Open+Sans:400,700,300,300italic|family=Roboto:300,900|Oswald:700|Corben|Neuton:400,700|Lovers+Quarrel|Ruthie' rel='stylesheet' type='text/css'>
