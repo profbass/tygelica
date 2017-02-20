@@ -265,10 +265,10 @@ Parallax and Background Image classes
 }
 .nonparallax{
 	background-position: top center;
-    background-size: 100% auto;
+    background-size: auto 100%;
     background-repeat: repeat-x;
 	background-image: url('../img/pic-ocean.jpg'); 
-    width: 100%;
+    width: 100vw;
     position: absolute;
     display: none;
 }
@@ -615,6 +615,7 @@ body.mobile{
 body.mobile{
 	#home{
 		min-height: 400px;
+		overflow: hidden;
 		h1.name{
 			span{
 				display: inline-block;
