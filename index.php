@@ -84,9 +84,9 @@
                     <h5>The Union of Tygelica</h5>
                     <hr class="classy-border margin-top-20 margin-bottom-20" />
                     <p>Hi Everyone! Thanks for coming to the website celebrating the love and union of Tygelica&trade;. We are super excited you want to share in our day. We have added some information about the wedding, getting around in Oahu and places to stay in the <a href="https://i.ytimg.com/vi/loospbnFpLs/maxresdefault.jpg" target="_blank">North Shore</a>. Please let us know if you can or cannot make it with the RSVP form at the bottom of the page.  We will keep this website update to date with more information about the trip as we have it.</p>
-                    <a href="#rsvp" class="badge circle padding-10 margin-top-30">
+                   <!--  <a href="#rsvp" class="badge circle padding-10 margin-top-30">
                         <p class="margin-top-20">RSVP</p>
-                    </a>
+                    </a> -->
                 </div>
             </div>
         </div>
@@ -94,7 +94,7 @@
 </section>
 
 <!-- Your Trip -->
-<section>
+<!-- <section>
     <div class="row">
         <div class="col-sm-12 background-cover bg-ocean-1">
             <div class="row margin-top-50 margin-bottom-50">
@@ -112,6 +112,31 @@
                         <div class="col-sm-7">
                             <h4>Getting Around <i class="material-icons">airport_shuttle</i> <small>Car Rental</small></h4>
                             <p>This is a vacation rental located on the <a href="https://i.ytimg.com/vi/Y28BIMOGJ_0/maxresdefault.jpg" target="_blank">North Shore</a>, so you will need to rent a car to get around.  There are tons of car rental places at Honolulu International Airport.  Since everyone needs to fly in we’d encourage getting with some friends and sharing a rental with another couple (for cost and parking reasons).  If you need help coordinating with others let Tyler or Angelica know.</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section> -->
+
+<!-- Paddle Trip -->
+<section>
+    <div class="row">
+        <div class="col-sm-12 background-cover bg-ocean-1">
+            <div class="row margin-top-50 margin-bottom-50">
+                <div class="col-sm-offset-1 col-sm-10 paper padding-80 mobile-padding-40">
+                    <div class="text-center">
+                        <h2 class="date">island paddle</h2>
+                        <h5 class="">Kailua Paddle Boarding Trip</h5>
+                        <hr class="classy-border margin-top-20 margin-bottom-20" />
+                    </div>
+                    <div class="row margin-top-50 mobile-margin-top-20">
+                        <div class="col-sm-8 col-sm-offset-2 text-center">
+                            <p>If you're planning on coming <strong>Paddle boarding on Friday (4/21)</strong>, we highly recommend booking online (you also get 15% off!). Tyler and I have booked for pickup at 11 (half day). If you're not interested in paddle boarding or kayaking you are still welcome to come hang out!  The beach on this side if beautiful. You can rent paddle boards or Kayaks below.</p>
+                            <a href="https://www.kailuasailboards.com/a…/stand-up-paddle-rentals/" target="_blank" class="badge circle padding-10 margin-top-30">
+                                <p class="margin-top-20">RENTAL!</p>
+                            </a>
                         </div>
                     </div>
                 </div>
