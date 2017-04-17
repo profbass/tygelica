@@ -179,7 +179,7 @@
                             <p class="margin-top-10">Cocktails and appetizers – 5pm – 6:30pm</p>
                             <p>Dinner @ 6:30</p>
                             <p class="margin-top-10">Guests should park at the main parking lot for Turtle Bay.   It is a 5-10 minute walk to the Beach Bay venue on a path.</p>
-                            <p class="margin-top-10"><strong>Reminder for shoes</strong> Do not wear heals!  Be comfortable, you will be walking on grass and uneven terrain. Hawaiian Print or Floral Attire is highly encouraged!</p>
+                            <p class="margin-top-10"><strong>Reminder for shoes</strong> Do not wear heels!  Be comfortable, you will be walking on grass and uneven terrain. Hawaiian Print or Floral Attire is highly encouraged!</p>
                         </div>
                         <div class="col-sm-6">
                             <h4>Wedding // Reception</h4>
