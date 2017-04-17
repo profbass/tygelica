@@ -148,16 +148,23 @@
                     </div>
                     <div class="row margin-top-50 margin-bottom-50 text-left">
                         <div class="col-sm-6">
-                            <h4>Rehearsal <i class="material-icons">room_service</i> Dinner</h4>
+                            <h4>Rehearsal // Welcome Dinner <i class="material-icons">room_service</i></h4>
                             <h5>Saturday, April 22nd 2017 </h5>
-                            <p class="margin-top-15">The Rehearsal dinner is open to everyone attending the wedding and graciously provided by Tyler's Family.  Dinner will be held at the <a href="http://www.turtlebayresort.com/" target="_blank">Bay View Venue at Turtle Bay</a>.  Hawaiian Print or Floral Attire is highly encouraged!</p>
+                            <p class="margin-top-5"><a href="http://www.turtlebayresort.com/" target="_blank"><strong>Bay View Venue at Turtle Bay</strong></a></p> 
+                            <p class="margin-top-10">Cocktails and appetizers – 5pm – 6:30pm</p>
+                            <p>Dinner @ 6:30</p>
+                            <p class="margin-top-10">Guests should park at the main parking lot for Turtle Bay.   It is a 5-10 minute walk to the Beach Bay venue on a path.</p>
+                            <p class="margin-top-10"><strong>Reminder for shoes</strong> Do not wear heals!  Be comfortable, you will be walking on grass and uneven terrain. Hawaiian Print or Floral Attire is highly encouraged!</p>
                         </div>
                         <div class="col-sm-6">
                             <h4>Wedding // Reception</h4>
                             <h5>Sunday, April 23rd 2017</h5>
-                            <p class="margin-top-15"><strong>Ceremony [5ish]</strong> -  <a href="https://vimeo.com/120393259" target="_blank">Hale Koa Estate</a>  //  Hauula, Hawaii</p>
-                            <p><strong>Reception <small>[7ish]</small></strong> - <a href="https://vimeo.com/120393259" target="_blank">Hale Koa Estate</a>  //  Hauula, Hawaii</p>
-                            <p>Attire for the wedding is <a href="https://www.pinterest.com/explore/beach-wedding-attire/" target="_blank">Beach Chic</a>.</p>
+                            <p class="margin-top-5"><strong><a href="https://vimeo.com/120393259" target="_blank">Hale Koa Estates</a></strong><br>
+                            53-12 Halai<br>
+                            Hauulla HI 96717</p>
+                            <p class="margin-top-15"><strong>Ceremony</strong> - 5ish</p>
+                            <p><strong>Reception</strong> - 7ish</p>
+                            <p class="margin-top-10">Attire for the wedding is <a href="https://www.pinterest.com/explore/beach-wedding-attire/" target="_blank">Beach Chic</a>.</p>
                         </div>
                     </div>
                     
@@ -256,7 +263,7 @@
     </div>
 </section>
 <!-- RSVP -->
-<section class="padding-top-50 padding-bottom-80 background-fixed bg-fiber" id="rsvp">
+<!-- <section class="padding-top-50 padding-bottom-80 background-fixed bg-fiber" id="rsvp">
     <div class="row">
         <div class="col-sm-offset-2 col-sm-8">
             <h2 class="date text-center">rsvp</h2>
@@ -303,48 +310,16 @@
                             
                             <div class="check"></div>
                          </div>
-                        <!-- <div class="radio">
-                            <label>
-                                <input type="radio" name="attending" value="yes">
-                                Yes
-                            </label>&nbsp; &nbsp;
-                            <label>
-                                <input type="radio" name="attending" value="no">
-                                No
-                            </label>
-                        </div> -->
                     </div>
                     <div class="col-sm-2 text-center">
-                        <button type="submit" class="btn btn-default circle" ><span class="text font-30">send<!-- <i class="material-icons">keyboard_arrow_right</i></span> --><span></button>
+                        <button type="submit" class="btn btn-default circle" ><span class="text font-30">send<span></button>
                     </div>
                 </div>
-                <!-- <div class="row hidden">
-                    <div class="col-sm-6">
-                        <div class="checkbox">
-                            <label>
-                                <input type="checkbox" id="guest"> I am bringing a +1
-                            </label>
-                        </div>
-                    </div>
-                </div>
-                <div class="row guest-row hidden">
-                    <div class="col-sm-6">
-                        <fieldset class="styled-input">
-                            <input id="guestfName" required="required" type="text" name="guestFirstNameInput">
-                            <label for="guestfName">Guest First Name </label>
-                        </fieldset>
-                    </div>
-                    <div class="col-sm-6">
-                        <fieldset class="styled-input">
-                            <input id="guestlName" required="required" type="text" name="guestLastNameInput">
-                            <label for="guestlName">Guest Last Name </label>
-                        </fieldset>
-                    </div>
-                </div> -->
+                
             </form>
         </div>
     </div>
-</section>
+</section> -->
 
 <!-- Mobal -->
 <div id ="formModal" class="modal fade">
