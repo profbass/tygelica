@@ -187,8 +187,8 @@
                             <p class="margin-top-5"><strong><a href="https://vimeo.com/120393259" target="_blank">Hale Koa Estates</a></strong><br>
                             53-12 Halai<br>
                             Hauulla HI 96717</p>
-                            <p class="margin-top-15"><strong>Ceremony</strong> - 5ish</p>
-                            <p><strong>Reception</strong> - 7ish</p>
+                            <p class="margin-top-15"><strong>Ceremony</strong> - 5pm</p>
+                            <p><strong>Reception</strong> - 7pm</p>
                             <p class="margin-top-10">Attire for the wedding is <a href="https://www.pinterest.com/explore/beach-wedding-attire/" target="_blank">Beach Chic</a>.</p>
                         </div>
                     </div>
