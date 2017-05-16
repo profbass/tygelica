@@ -83,7 +83,7 @@
                     <h2 class="date">thank you!</h2>
                     <h5>Making memories together</h5>
                     <hr class="classy-border margin-top-20 margin-bottom-20" />
-                    <p>Man, we had an amazing wedding and vacation. We can't begin to thank everyone enough for coming out to Tygelica&trade; 2017. Sharing the day and hanging out with everyone on the <a href="https://d18gmz9e98r8v5.cloudfront.net/ptr/20120719002924_998224507_1165_9.jpg" target="_blank">North Shore</a> was something we will truely never forget. Below we have added our wedding video created by the amazing <a href="http://www.ponovideomarketing.com/" target="_blank">Pono Video</a> team. We are also leaving our registery up for anyone who is still interested in helpong with our some of our favorite organizations. We will be adding photos from the wedding and everyones time in Hawaii soon, so don't forget to check back!</p>
+                    <p>Man, we had an amazing wedding and vacation. We can't begin to thank everyone enough for coming out to Tygelica&trade; 2017. Sharing the day and hanging out with everyone on the <a href="https://d18gmz9e98r8v5.cloudfront.net/ptr/20120719002924_998224507_1165_9.jpg" target="_blank">North Shore</a> was something we will truely never forget. Below we have added our wedding video created by the amazing <a href="http://www.ponovideomarketing.com/" target="_blank">Pono Video</a> team, and updated the site with our photos from <a href="http://www.than-photo.com/" target="_blank">Than Photos</a>. We are also leaving our registery up for anyone who is still interested in helpong with our some of our favorite organizations. We will be adding photos from the wedding and everyones time in Hawaii soon, so don't forget to check back!</p>
                     <p>&nbsp;</p>
                     <p>&nbsp;</p>
                     <p>&nbsp;</p>
@@ -120,18 +120,6 @@
                             </div>
                         </div>
                     </div>
-                    <!-- <div class="row margin-bottom-50 text-left">
-                        <div class="col-sm-6">
-                            <div class="videoWrapper">
-                               <iframe width="560" height="349" src="//fast.wistia.net/embed/iframe/h4xdzli2ge" frameborder="0" allowfullscreen=""></iframe>
-                               <iframe width="1280" height="720" src="https://www.youtube.com/embed/9WrM6BJNuUw" frameborder="0" allowfullscreen></iframe>
-                            </div>
-                        </div>
-                    </div> -->
-                    <div class="row margin-top-50 margin-bottom-50 text-left">
-                    
-                    </div>
-                    
                 </div>
             </div>
         </div>
