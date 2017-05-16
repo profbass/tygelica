@@ -111,7 +111,7 @@
     <div class="row">
         <div class="col-sm-12 background-fixed background-fixed bg-fiber">
             <div class="row margin-top-0 margin-bottom-0 padding-80 mobile-padding-40">
-                <h2 class="date text-center">A day to remember</h2>
+                <h2 class="date text-center">A little peak</h2>
                 <div class="col-sm-offset-1 col-sm-10 text-center">
                     <div class="row">
                         <div class="col-sm-10 col-sm-offset-1 text-center">
