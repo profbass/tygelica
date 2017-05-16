@@ -271,6 +271,9 @@ Parallax and Background Image classes
     width: 100vw;
     position: absolute;
     display: none;
+    &.wedding{
+		background-image: url('../img/bg-tygelica.jpg'); 
+    }
 }
 .parallax-layer {
     background-size: cover;
@@ -286,12 +289,32 @@ Parallax and Background Image classes
 	&.ocean{
 		background-image: url('../img/pic-ocean.jpg');
 	}
+
+    &.wedding{
+		background-image: url('../img/bg-tygelica.jpg'); 
+    }
 }
 #paralax-3{
 	// border-top: 30px solid @light;
 	// border-right: 30px solid @light;
 	// border-left: 30px solid @light;
 }
+
+// responsive iframe
+.videoWrapper {
+	position: relative;
+	padding-bottom: 56.25%; /* 16:9 */
+	padding-top: 25px;
+	height: 0;
+}
+.videoWrapper iframe {
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 100%;
+}
+
 .background-cover{
 	background-size: cover;
 	background-position: center center;
@@ -324,6 +347,47 @@ Parallax and Background Image classes
 .tygelica-8{
 	background-image: url('../img/pic-tygelica-8.jpg');
 }
+//wedding photos
+.wedding-1{
+	background-image: url('../img/pic-wedding-1.jpg');
+}
+.wedding-2{
+	background-image: url('../img/pic-wedding-2.jpg');
+}
+.wedding-3{
+	background-image: url('../img/pic-wedding-3.jpg');
+}
+.wedding-4{
+	background-image: url('../img/pic-wedding-4.jpg');
+}
+.wedding-5{
+	background-image: url('../img/pic-wedding-5.jpg');
+}
+.wedding-6{
+	background-image: url('../img/pic-wedding-6.jpg');
+}
+.wedding-7{
+	background-image: url('../img/pic-wedding-7.jpg');
+}
+.wedding-8{
+	background-image: url('../img/pic-wedding-8.jpg');
+}
+.wedding-9{
+	background-image: url('../img/pic-wedding-9.jpg');
+}
+.wedding-10{
+	background-image: url('../img/pic-wedding-10.jpg');
+}
+.wedding-11{
+	background-image: url('../img/pic-wedding-11.jpg');
+}
+.wedding-12{
+	background-image: url('../img/pic-wedding-12.jpg');
+}
+.wedding-13{
+	background-image: url('../img/pic-wedding-13.jpg');
+}
+
 // Banners
 .banner{
 	background-position: center;
@@ -634,6 +698,7 @@ body.mobile{
 		position:relative;
 		font-size: 9rem;
 		line-height: 80%;
+		.text-shadow(1px 1px rgba(0,0,0,0.25));
 		@media (max-width: @screen-sm) {
 			font-size: 7rem;
 		}
@@ -645,12 +710,14 @@ body.mobile{
 			display: block;
 			font-family: @Corben;
 			font-size: 60px;
+			.text-shadow(1px 1px rgba(0,0,0,0.25));
 			&:before{
 				position: absolute;
 				top: 5px;
 				left: 0;
 				width: 40%;
 				border-top: 5px solid @dark;
+		.text-shadow(1px 1px rgba(0,0,0,0.25));
 			}
 			@media (max-width: @screen-sm) {
 				font-size: 20px;
@@ -668,6 +735,7 @@ body.mobile{
 		font-size: 8rem;
 		color: @salmon;
 		font-family: @Roboto;
+		.text-shadow(1px 1px rgba(0,0,0,0.25));
 		@media (max-width: @screen-sm) {
 			font-size: 4rem;
 		}
